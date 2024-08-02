@@ -1,0 +1,84 @@
+## Sunita Patil
+
+### Professional Experience
+
+**Senior Engineer, LeadSoc Technologies India Pvt Ltd** (03/06/2024-present)
+
+* Led and developed various Computer Vision software applications based on client requirements.
+* Proficient in Python and C# for developing Computer Vision applications using Deep Learning and OpenCV.
+
+**Project Engineer, Redbot Innovations Pvt. Ltd.** (10/2020 – 5/2024)
+
+* Developed and led teams on various Computer Vision software projects.
+* Proficient in Python and C#.
+* Developed Computer Vision Applications using Deep Learning and OpenCV.
+
+### Technical Skills
+
+* Computer Vision
+* Deep Learning
+* Machine Learning
+* Image and Video Processing with Acquisition
+* Custom training of Deep Learning Models with Model training, tuning, verifying accuracy and loss and optimization. For all Segmentation, Classification, Detection, Identification Models.
+
+### Software Skills
+
+* Python
+* C#
+* OpenCV
+* PostgreSQL
+* Visual Studio 2017, 2019, 2022
+* VS Code, Windows Form in VS
+* Basler SDK, SVM, Baumer SDK, Spinaker Spin View SDK, IVMS, Colab, Kaggle.
+
+### Project Details
+
+**Industrial Projects**
+
+* **Reading OCR on medical carton box, on metal surface (car VIN number) and also on cylindrical metal surface (16 at a time) using Computer Vision library.**
+    * Medical Carton Box OCR reading – Gland Pharma (Dec 2020 – Feb 2021)
+    * Vin Number OCR reading – Maruti (MSIL) (Feb 2021 - June 2021)
+    * Glow plug cylindrical metal surface OCR reading – Bosch (June 2021 – Dec 2021)
+    * Identified Character position on carton with proper reading and comparing with input provided to give results.
+    * For VIN number reading of OCR with location display and spacing between letters with height and width of each letter.
+    * Identified OCR on Cylindrical parts with parts presence/absence with parts location and OCR printed location.
+    * Performed in both Python and C#.
+* **Engine sealant inspection, car panel sealant inspection.**
+    * Car panel sealant inspection- Maruti (Dec 2021 – April 2022)
+    * Engine sealant inspection – Toyota (Tkap) (Sep 2022 – Nov 2022)
+    * Found whether the sealant applied on car panels or engine were continuous and not broken along with the applied sealant width.
+    * Also, pin pointed the location where the sealant is improper using OpenCV C#.
+* **Identifying objects condition using Computer Vision.**
+    * Identifying Resolver lock conditions – Toyota (Tkap) (May 2022 – July 2022)
+    * Identifying Thermistor lock conditions – Toyota (Tkap) (July 2022 – Sep 2022)
+    * Performed object detection and checking parts locking is proper or not in c# using Opencv.
+* **Recognizing and identifying objects using Deep Learning.**
+    * Wheel Identification – Wheels India (Nov 2022 – April 2023)
+        * Performed object detection and tracking of small objects on wheels and labeled them using PyTorch, Faster RCNN with ResNet50 and MobileNet for Region Proposed Network, thus giving the co-ordinates of the object.
+    * Wheel disc pattern with valve and color identification - Wheels India (Nov 2022 – April 2023)
+        * Classifying the disc pattern and color identification with angle detection of color to center of part using OpenCV and Valve with Deep Learning and giving results accordingly.
+    * Classification and detection of bike parts - Hero Motorcorp (April 2023 – Dec 2023)
+        * Classifying the parts with part name and co-ordinates of the part as bounding box which was done by labeling the objects and training with using PyTorch Faster RCNN with ResNet50 and MobileNet for Region Proposed Network, thus giving the co-ordinates of the object and all results was connected to PostgreSQL database.
+* **Person detection and pose estimation:**
+    * Person detection and pose estimation – (Dec 2023- April 2024)
+        * Using Deep Learning Model (YOLOv Models) have detected person and for pose estimation I have used MediaPipe using Python. Custom training as per the requirements using Deep Learning models for better accuracy.
+
+### Academic Details
+
+**Bachelor of Engineering, KLE College of Engineering and Technology, Chikodi, Belagavi** (07/2015 – 06/2019)
+
+* Graduated with 6.7 CGPA
+
+**Pre-university course, Excellent PU College, Moodbidri** (04/2013 – 04/2015)
+
+* Class of 2015 with 70%
+
+**Secondary School Leaving Certificate, Jain High School, Moodbidri** (04/2013)
+
+* Class of 2013 with 69%
+
+### Courses
+
+* Basics Java, Python and SQL, Jspiders.
+* Python for Computer Vision with OpenCV and Deep Learning, Udemy
+* Machine Learning, Data Science and Deep Learning with Python, Udemy.

@@ -1,0 +1,58 @@
+## Sagnik Bhattacharyya
+
+### Professional Experience
+
+**Lead QA Engineer** | **Helius Computech** | **01/2024 - Present** | **Bangalore(WFH)**
+* Starting the QA team from scratch and managing a QA team of 3 members.
+* Involved in Requirement analysis, test scenario design and test execution.
+* Involved in automation of Regression Test Scenarios using BDD automation framework.
+
+**Associate** | **Cognizant** | **11/2021 - 01/2024** | **Kolkata**
+* Involved in PI planning, Capacity Planning, Test Strategy preparation, Sprint Retrospective and QA metrics preparation.
+* Involved in Lead level activities and managing a QA team of 9 members.
+* Involved in insprint automation of Test Scenarios using CRAFT automation framework.
+
+**SDET - 1** | **Setu** | **12/2020 - 11/2021** | **Bangalore**
+* Involved in design and development of Test Scenarios using BDD automation framework.
+
+**Automation Engineer** | **Tavant Technologies** | **09/2018 - 11/2020** | **Bangalore**
+* Involved in design and development of Test Scenarios using hybrid-driven automation framework.
+
+### Technical Skills
+
+* Java
+* Selenium
+* Cucumber
+* API Testing
+* SQL
+* Postman
+* Jenkins
+* Git
+* Jira
+* TestRail
+
+### Projects
+
+**Equinix Sales Data Management using Anaplan** | **01/2023 - Present**
+* Prepared automation Regression suite and using Java and Selenium.
+* Technologies: Java, Selenium, Cucumber.
+
+**Lululemon Allocation & Planning using Anaplan** | **12/2021 - 01/2023**
+* Prepared automation Regression suite and using Java and Selenium.
+* Technologies: Java, Selenium, Anaplan.
+
+**FD Product** | **05/2021 - 11/2021**
+* Prepared automation Regression suite and using Gauge and Selenium.
+* Technologies: Java, Selenium, API Testing.
+
+**PennyMac Broker Direct** | **09/2018 - 11/2020**
+* Prepared automation Regression suite and using Java and Selenium.
+* Technologies: Java, Selenium, API Testing.
+
+### Academic Details
+
+**B. Tech in Computer Science & Engineering** | **Academy of Technology** | **07/2014 - 06/2018** | **8.34 DGPA**
+
+**XII** | **Pearls of God** | **07/2013 - 06/2014** | **77.2%**
+
+**X** | **Pearls of God** | **07/2011 - 06/2012** | **72%** 

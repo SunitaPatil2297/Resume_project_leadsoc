@@ -1,0 +1,10 @@
+Please provide me with the user data you want me to use to create a resume. I need information like:
+
+* **Name:**
+* **Professional Experience:** (Company Name, Job Title, Dates of Employment, Responsibilities)
+* **Technical Skills:** (Programming languages, frameworks, tools, etc.)
+* **Software Skills:** (Software you are proficient in)
+* **Project Details:** (Project name, description, your role, technologies used)
+* **Academic Details:** (Degree, Major, University, Graduation Date) 
+
+Once you provide this information, I can create a resume for you in the format you requested. 
